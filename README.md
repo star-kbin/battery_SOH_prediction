@@ -10,8 +10,8 @@ OBD 수집된 데이터는 모델 학습을 위해 전처리 및 인자 추출 �
 
 다음은 배터리 데이터 분석을 통해 몇 가지 사례를 보여 줍니다.
  - 전기차의 주행에 따른 전비(km/kwh) 특성
-   ./EV_Power_Ratio_Sample.png
+   ./images/EV_Power_Ratio_Sample.png
 
 - 전기차의 향후 SOH 추세 예측
-  ./SOH_Prediction_Sample.png
+  ./images/SOH_Prediction_Sample.png
   
